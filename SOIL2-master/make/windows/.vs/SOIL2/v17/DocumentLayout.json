@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\make\\windows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71967CB-D312-861D-FC44-6BA2E89C6529}|soil2-static-lib.vcxproj|C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\wfETC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71967CB-D312-861D-FC44-6BA2E89C6529}|soil2-static-lib.vcxproj|C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\SOIL2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71967CB-D312-861D-FC44-6BA2E89C6529}|soil2-static-lib.vcxproj|C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\image_helper.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71967CB-D312-861D-FC44-6BA2E89C6529}|soil2-static-lib.vcxproj|C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\image_DXT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B990561-2751-47AE-9058-200A7C2FE29E}|soil2-test.vcxproj|C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\test\\test_SOIL2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wfETC.c",
+              "DocumentMoniker": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\wfETC.c",
+              "RelativeDocumentMoniker": "..\\..\\src\\SOIL2\\wfETC.c",
+              "ToolTip": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\wfETC.c",
+              "RelativeToolTip": "..\\..\\src\\SOIL2\\wfETC.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-12T13:40:54.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SOIL2.c",
+              "DocumentMoniker": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\SOIL2.c",
+              "RelativeDocumentMoniker": "..\\..\\src\\SOIL2\\SOIL2.c",
+              "ToolTip": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\SOIL2.c",
+              "RelativeToolTip": "..\\..\\src\\SOIL2\\SOIL2.c",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-12T13:40:30.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test_SOIL2.cpp",
+              "DocumentMoniker": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\test\\test_SOIL2.cpp",
+              "RelativeDocumentMoniker": "..\\..\\src\\test\\test_SOIL2.cpp",
+              "ToolTip": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\test\\test_SOIL2.cpp",
+              "RelativeToolTip": "..\\..\\src\\test\\test_SOIL2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T13:32:23.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "image_helper.c",
+              "DocumentMoniker": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\image_helper.c",
+              "RelativeDocumentMoniker": "..\\..\\src\\SOIL2\\image_helper.c",
+              "ToolTip": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\image_helper.c",
+              "RelativeToolTip": "..\\..\\src\\SOIL2\\image_helper.c",
+              "ViewState": "AgIAADABAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-12T13:31:15.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "image_DXT.c",
+              "DocumentMoniker": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\image_DXT.c",
+              "RelativeDocumentMoniker": "..\\..\\src\\SOIL2\\image_DXT.c",
+              "ToolTip": "C:\\Users\\31024\\Downloads\\SOIL2-master\\SOIL2-master\\src\\SOIL2\\image_DXT.c",
+              "RelativeToolTip": "..\\..\\src\\SOIL2\\image_DXT.c",
+              "ViewState": "AgIAAHkBAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-12T13:31:13.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
